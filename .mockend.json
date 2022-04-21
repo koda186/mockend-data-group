@@ -1,0 +1,37 @@
+{
+  "Post": {
+    "name": {
+      "string": [
+        "Belton Dam Team",
+        "Lake Travis Team 1",
+        "TD Survey Team 2",
+        "Lake Travis Team 2",
+        "Lake Donahue Survey Team 1",
+        "Survey Team 4",
+        "Keegan Survey Group 3",
+        "Wellington Group 4",
+        "Kein Survey Team",
+        "Elda Group 4 Survey Team",
+        "Pacifico Group 4",
+        "Pacifico Group 1",
+        "Guerra Team 2",
+        "鈴木 陽一",
+        "渡辺 裕美子",
+      ]
+    },
+    "description": {
+      "string": [
+        "Surveys of Lake",
+        "Surveys of pipelines",
+        "Wind Farm Survey",
+        "Underwater cable Surveys"
+      ]
+    },
+    "status": {
+      "string": [
+        "Active",
+        "Inactive"
+      ]
+    }
+  }
+}
